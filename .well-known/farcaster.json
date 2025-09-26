@@ -2,10 +2,10 @@
   "frame": {
     "name": "Brayan's Farcaster Profile link",
     "version": "1",
-    "iconUrl": "https://raw.githubusercontent.com/medrab1/my-static-site/refs/heads/main/farcaster_logo.png?token=GHSAT0AAAAAADL56J4SMRQOURFMTEHIHTPM2GXBY6A",
+    "iconUrl": "https://raw.githubusercontent.com/medrab1/my-static-site/refs/heads/main/farcaster_logo.png",
     "homeUrl": "https://brayan-facaster-link.netlify.app/",
-    "imageUrl": "https://raw.githubusercontent.com/medrab1/my-static-site/refs/heads/main/farcaster_logo.png?token=GHSAT0AAAAAADL56J4SMRQOURFMTEHIHTPM2GXBY6A",
-    "splashImageUrl": "https://raw.githubusercontent.com/medrab1/my-static-site/refs/heads/main/farcaster_logo.png?token=GHSAT0AAAAAADL56J4SMRQOURFMTEHIHTPM2GXBY6A",
+    "imageUrl": "https://raw.githubusercontent.com/medrab1/my-static-site/refs/heads/main/farcaster_logo.png",
+    "splashImageUrl": "https://raw.githubusercontent.com/medrab1/my-static-site/refs/heads/main/farcaster_logo.png",
     "splashBackgroundColor": "#000000",
     "subtitle": "My farcaster profile link",
     "description": "Static site to link to my farcaster profile on the farcaster website",
