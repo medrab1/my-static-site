@@ -12,9 +12,9 @@
     "primaryCategory": "social"
   },
   "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
+    "header": "eyJmaWQiOjEzNDY3NDUsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg2MzkxYzA4NzcxRjlEM2NjOTU3MDE5ZDljNTVkQjRiQmNiNEM3MTEzIn0",
+    "payload": "eyJkb21haW4iOiJicmF5YW4tZmFjYXN0ZXItbGluay5uZXRsaWZ5LmFwcCJ9",
+    "signature": "MHhhZTc1Y2I0MTk1MDExYzFkNjc4MGVjYjZlZTg1MDNiOGU2YTlmYjRiOGQwYmRjYTE0YWRhZmI1YmE0MjVmMjU5NTBjYThjMDZlZjY0ZDA1NzMzMWJkMWVjNjEzNjFlMjc3ZWZkNDhkODk0MWNmZjk4OTNmYWFlNmVjMzU0NWJhYzFj"
   }
 }
 
