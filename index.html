@@ -46,7 +46,7 @@
 </head>
 
 <body>
-  <!-- Clickable circular image linking to another site -->
+  <!-- Clickable farcaster image linking to farcaster site -->
   <a href="https://farcaster.xyz/medrano" target="_blank">
     <img src="farcaster_logo.png" alt="Farcaster Icon" />
   </a>
@@ -54,7 +54,7 @@
   <script type="module">
     import { sdk } from "https://esm.sh/@farcaster/miniapp-sdk"
   
-    // Wait for your content to load first
+    // Wait for content to load first
     window.addEventListener("DOMContentLoaded", async () => {
       await sdk.actions.ready()
     })
