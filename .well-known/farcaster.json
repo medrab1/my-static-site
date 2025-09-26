@@ -1,0 +1,20 @@
+{
+  "frame": {
+    "name": "Brayan's Farcaster Profile link",
+    "version": "1",
+    "iconUrl": "https://raw.githubusercontent.com/medrab1/my-static-site/refs/heads/main/farcaster_logo.png?token=GHSAT0AAAAAADL56J4SMRQOURFMTEHIHTPM2GXBY6A",
+    "homeUrl": "https://brayan-facaster-link.netlify.app/",
+    "imageUrl": "https://raw.githubusercontent.com/medrab1/my-static-site/refs/heads/main/farcaster_logo.png?token=GHSAT0AAAAAADL56J4SMRQOURFMTEHIHTPM2GXBY6A",
+    "splashImageUrl": "https://raw.githubusercontent.com/medrab1/my-static-site/refs/heads/main/farcaster_logo.png?token=GHSAT0AAAAAADL56J4SMRQOURFMTEHIHTPM2GXBY6A",
+    "splashBackgroundColor": "#000000",
+    "subtitle": "My farcaster profile link",
+    "description": "Static site to link to my farcaster profile on the farcaster website",
+    "primaryCategory": "social"
+  },
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  }
+}
+
